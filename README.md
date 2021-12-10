@@ -18,7 +18,11 @@ Ltc ->
 
 video:- 
 
+[![ Tutorial Youtube video](https://img.youtube.com/vi/emATnpFhbcM/0.jpg)](https://youtu.be/emATnpFhbcM)
+
 Just upload this [ESP8266-Fluxion.ino.nodemcu.bin](https://raw.githubusercontent.com/pitube08642/Fluxion-on-ESP8266/main/ESP8266-Fluxion.ino.nodemcu.bin) on esp8266
+
+App link: [ESP8266 Flasher](https://play.google.com/store/apps/details?id=com.bluino.esploader)
 
 # Usage tutorial
 
