@@ -37,3 +37,5 @@ Video Coming soon
 •Once there DO NOT change your target, only start/stop deauthing and wait for someone to try and use the correct password.
 •Once correct password is found, AP will be restarted with default ssid M1z23R and at the bottom of a table you should be able to see something like "Successfully got password for - SSID - Password"
 •And Don't forget to turn of deauther attack...
+
+#esp8266
